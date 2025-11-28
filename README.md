@@ -27,4 +27,4 @@
 
 ---
 
-🔗 [Clique aqui para acessar o projeto online](LINK_MEU_PROJETO)
+🔗 [Clique aqui para acessar o projeto online](https://emillyandradedev.github.io/tip-calculator-bill-splitter-js/)
